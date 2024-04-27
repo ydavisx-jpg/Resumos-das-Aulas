@@ -11,7 +11,7 @@ storing the content of the course bootcamp santander about versioning code.
 |01|Visao geral do curso|[saber mais](https://github.com/elidianaandrade/dio-curso-git-github/blob/edeb61b4bb92e34f9cfe7995f7131df22e522a2d/materiais-de-apoio/01-visao-geral-do-curso-e-ferramentas.md)|
 |02|Instalação, Configuração e Autenticação|[saber mais](https://github.com/elidianaandrade/dio-curso-git-github/blob/edeb61b4bb92e34f9cfe7995f7131df22e522a2d/materiais-de-apoio/02-instalacao-configuracao-e-autenticacao.md)|
 |03|Primeiros Passos com Git e GitHub|[saber mais](https://github.com/elidianaandrade/dio-curso-git-github/blob/edeb61b4bb92e34f9cfe7995f7131df22e522a2d/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md)|
-|04|Comandos mais utilizados|[saber mais](https://github.com/elidianaandrade/dio-curso-git-github/blob/edeb61b4bb92e34f9cfe7995f7131df22e522a2d/materiais-de-apoio/04-dicas-e-materiais-de-apoio.md)|
+|04|Comandos mais utilizados|[saber mais](https://github.com/ydavisx-jpg/Resumos-das-Aulas/blob/ab9bce2df23e52030c55581b756a761468f9118b/Comandos%20das%20aulas.md)|
 |05|Dicas e Materiais de Apoio|[saber mais](https://github.com/elidianaandrade/dio-curso-git-github/blob/edeb61b4bb92e34f9cfe7995f7131df22e522a2d/materiais-de-apoio/04-dicas-e-materiais-de-apoio.md)|
 
 
